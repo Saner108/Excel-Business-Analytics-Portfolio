@@ -1,6 +1,6 @@
 # Excel Business Analytics Portfolio
 
-A collection of Excel-based projects showcasing practical applications of financial modeling, business analytics, data organization, and operational management. This repository demonstrates proficiency in advanced Excel features, analytical problem-solving, and building tools that support data-driven decision-making.
+This portfolio features Excel-based projects focused on financial modeling, business analytics, and operational tracking. Each workbook is designed to solve practical business problems using structured spreadsheet design and data-driven analysis.
 
 ## Jump to a Project
 
@@ -30,9 +30,9 @@ A collection of Excel-based projects showcasing practical applications of financ
 
 ### Financial Solver & Capital Budgeting Model
 
-📄 **[`Finance Solver .xlsx`](./Finance%20Solver%20.xlsx)**
+- **Workbook:** [`Finance Solver .xlsx`](./Finance%20Solver%20.xlsx)
 
-An Excel tool for solving common finance problems using built-in financial functions and formulas, including time value of money calculations, loan analysis, and investment evaluation. This workbook also contains the **Capital Budgeting Model** — used to evaluate investment opportunities through discounted cash flow analysis, including revenue projections, expense forecasting, depreciation schedules, operating cash flows, Net Present Value (NPV), and Internal Rate of Return (IRR).
+An Excel tool for solving common finance problems using built-in financial functions and formulas, including time value of money calculations, loan analysis, and investment evaluation. The workbook also includes a **Capital Budgeting Model** for evaluating investment opportunities through discounted cash flow analysis, revenue projections, expense forecasting, depreciation schedules, operating cash flows, Net Present Value (NPV), and Internal Rate of Return (IRR).
 
 **Highlights:**
 - Time value of money calculations (PV, FV, PMT)
@@ -47,8 +47,8 @@ An Excel tool for solving common finance problems using built-in financial funct
 
 ### Kitchen Inventory Management Tracker
 
-📄 **[`Cooking Inventory_Final.xlsx`](./Cooking%20Inventory_Final.xlsx)** *(current version)*
-📄 [`Cooking Inventory.xlsx`](./Cooking%20Inventory.xlsx) *(earlier version, kept for reference)*
+- **Current version:** [`Cooking Inventory_Final.xlsx`](./Cooking%20Inventory_Final.xlsx)
+- **Reference version:** [`Cooking Inventory.xlsx`](./Cooking%20Inventory.xlsx)
 
 A comprehensive inventory management system designed to organize and monitor kitchen equipment, cookware, food preparation tools, and serving supplies. The workbook tracks expected inventory, current inventory, inventory variance, item condition, and inventory notes while supporting efficient inventory audits.
 
@@ -66,9 +66,9 @@ A comprehensive inventory management system designed to organize and monitor kit
 
 > 🔀 This project lives on the [`Personal-Budgeting`](https://github.com/Saner108/Excel-Business-Analytics-Portfolio/tree/Personal-Budgeting) branch.
 
-📄 **[`Budget_Tracker_MasterCopy.xlsx`](https://github.com/Saner108/Excel-Business-Analytics-Portfolio/blob/Personal-Budgeting/Budget_Tracker_MasterCopy.xlsx)** *(current version)*
-📄 [`Budget Template_26.xlsx`](https://github.com/Saner108/Excel-Business-Analytics-Portfolio/blob/Personal-Budgeting/Budget%20Template_26.xlsx) *(prior version)*
-📄 [`Budget Template.xlsx`](https://github.com/Saner108/Excel-Business-Analytics-Portfolio/blob/Personal-Budgeting/Budget%20Template.xlsx) *(original v1)*
+- **Current version:** [`Budget_Tracker_MasterCopy.xlsx`](https://github.com/Saner108/Excel-Business-Analytics-Portfolio/blob/Personal-Budgeting/Budget_Tracker_MasterCopy.xlsx)
+- **Prior version:** [`Budget Template_26.xlsx`](https://github.com/Saner108/Excel-Business-Analytics-Portfolio/blob/Personal-Budgeting/Budget%20Template_26.xlsx)
+- **Original v1:** [`Budget Template.xlsx`](https://github.com/Saner108/Excel-Business-Analytics-Portfolio/blob/Personal-Budgeting/Budget%20Template.xlsx)
 
 A yearly budget tracker with monthly income/expense sheets and an automatically-updating yearly dashboard, supporting 50/30/20 and 70/20/10 budget-split analysis.
 
